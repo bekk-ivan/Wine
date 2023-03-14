@@ -1,7 +1,7 @@
 # Wine
 Wine quality model
 
-### Goal
+### Goal:
 - To analyse the impact of certain features on the quality of wine and create a model to predict the quality of wine 
 
 ### Dataset:<br >
