@@ -1,21 +1,21 @@
 # Wine
 Wine quality model
 
-Goal
+### Goal
 - To analyse the impact of certain features on the quality of wine and create a model to predict the quality of wine 
 
-Dataset:
+### Dataset:<br >
 The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine
-Input variables (based on physicochemical tests):
-1 - fixed acidity
-2 - volatile acidity
-3 - citric acid
-4 - residual sugar
-5 - chlorides
-6 - free sulfur dioxide
-7 - total sulfur dioxide
-8 - density
-9 - pH
-10 - sulphates
+Input variables (based on physicochemical tests):<br >
+1 - fixed acidity<br >
+2 - volatile acidity<br >
+3 - citric acid<br >
+4 - residual sugar<br >
+5 - chlorides<br >
+6 - free sulfur dioxide<br >
+7 - total sulfur dioxide<br >
+8 - density<br >
+9 - pH<br >
+10 - sulphates<br >
 11 – alcohol
 
