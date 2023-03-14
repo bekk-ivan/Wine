@@ -17,5 +17,7 @@ Input variables (based on physicochemical tests):<br >
 8 - density<br >
 9 - pH<br >
 10 - sulphates<br >
-11 – alcohol
+11 – alcohol<br >
 
+Output variable (based on sensory data):<br >
+12 - quality (score between 0 and 10)
